@@ -5,7 +5,7 @@
 
 I am Rand Hussein,  a computer science Student. I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
-[![Linkedin Badge](https://www.linkedin.com/in/rand-hussein-921b84358/)]
+[![Linkedin Badge](www.linkedin.com/in/rand-hussein-921b84358)]
 
 
 </div>
