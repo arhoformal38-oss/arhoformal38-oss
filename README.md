@@ -1,10 +1,6 @@
 <div align="center" width="50">
 
-<a href="https://pinterest.com">
-  <img src="https://i.pinimg.com/originals/12/34/56/1234567890abcdef.jpg" 
-       alt="Pinterest Image" 
-       width="60%"/>
-</a>
+[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)
  <br>
 ## Fancy seeing you here! 
 
