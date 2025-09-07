@@ -1,11 +1,10 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
-## Fancy seeing you here! 
+<img src="https://github.com/arhoformal38-oss/arhoformal38-oss/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/arhoformal38-oss" alt="Hello Coders" width="60%"/> <br>
 
-I am Rand Hussein,  a computer science Student. I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+## Fancy seeing you here!
 
-[![Linkedin Badge](www.linkedin.com/in/rand-hussein-921b84358)]
+I am Rand Hussein,  a computer science Student. I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas.
 
 
 </div>
@@ -38,9 +37,9 @@ class About extends Me {
 }
 ```
 
--  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **React Native & AppDev**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **EVERYTHING**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. 
+-  <img alt="GIF" src="https://github.com/arhoformal38-oss/arhoformal38-oss/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **React Native & AppDev**. <br>
+- <img src="https://github.com/arhoformal38-oss/arhoformal38-oss/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **EVERYTHING**. <br>
+- <img src="https://github.com/arhoformal38-oss/arhoformal38-oss/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. 
 <div align="center" >
 
 
