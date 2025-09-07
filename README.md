@@ -1,6 +1,11 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
+<a href="https://pinterest.com">
+  <img src="https://i.pinimg.com/originals/12/34/56/1234567890abcdef.jpg" 
+       alt="Pinterest Image" 
+       width="60%"/>
+</a>
+ <br>
 ## Fancy seeing you here! 
 
 I am Rand Hussein,  a computer science Student. I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. 
