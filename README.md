@@ -1,7 +1,6 @@
 <div align="center" width="50">
 
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)
- <br>
+
 ## Fancy seeing you here! 
 
 I am Rand Hussein,  a computer science Student. I am a tech enthusiast & an open-source advocate. Always open to collaborating on projects and innovative/disruptive ideas. 
