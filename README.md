@@ -25,8 +25,8 @@ I am Rand Hussein,  a computer science Student. I am a tech enthusiast & an open
 
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : {  "Javascript", "Java" },
-    "OtherLanguages" : { "HTML", "CSS" },
+    "ProgramingLanguages" : {  "Javascript", "Java","python" }
+    "OtherLanguages" : { "HTML", "CSS","React" },
     "Database" : { "Mysql", "Sqlite" },
     "Editors" : { "Vscode" ,"React Native", "Node.js"},
     "Platforms" : {"IOS","Android" },
