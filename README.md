@@ -28,7 +28,7 @@ class About extends Me {
     "ProgramingLanguages" : {  "Javascript", "Java" },
     "OtherLanguages" : { "HTML", "CSS" },
     "Database" : { "Mysql", "Sqlite" },
-    "Editors" : { "Vscode" ,"React Native", Node.js},
+    "Editors" : { "Vscode" ,"React Native", "Node.js"},
     "Platforms" : {"IOS","Android" },
     "OtherTools" : { "Git" ,"github" }
   };
